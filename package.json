@@ -1,6 +1,6 @@
 {
   "name": "process-list-title",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Get process title in windows",
   "main": "index.js",
   "engines": {
