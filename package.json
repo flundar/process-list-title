@@ -1,0 +1,36 @@
+{
+  "name": "process-list-title",
+  "version": "0.0.5",
+  "description": "Get process title in windows",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flundar/process-list-title.git"
+  },
+  "keywords": [
+    "windows",
+    "win",
+    "process",
+    "list",
+    "tasklist",
+    "task list",
+    "process",
+    "process list",
+    "task",
+    "taskmgr"
+  ],
+  "author": "Okay Şahin <mail@flundar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flundar.com/process-list-title/issues"
+  },
+  "homepage": "https://github.com/flundar.com/process-list-title#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.1",
+    "should-promised": "^0.3.1"
+  }
+}
