@@ -26,7 +26,7 @@ function build_shell(fields) {
  * @param  {Array} fields fields to select
  * @return {Promise}	    resolved to array of processes
  */
-exports.taketitle = function snapshot(fields) {
+exports.takeTitle = function takeTitle(fields) {
   var ps = build_shell(fields);
   var data = [];
 
