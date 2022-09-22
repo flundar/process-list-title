@@ -25,9 +25,9 @@
   "author": "Okay Şahin <mail@flundar.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flundar.com/process-list-title/issues"
+    "url": "https://github.com/flundar/process-list-title/issues"
   },
-  "homepage": "https://github.com/flundar.com/process-list-title#readme",
+  "homepage": "https://github.com/flundar/process-list-title#readme",
   "devDependencies": {
     "mocha": "^2.3.3",
     "should": "^7.1.1",
